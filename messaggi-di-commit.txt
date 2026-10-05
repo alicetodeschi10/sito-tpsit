@@ -1,6 +1,0 @@
-1) Modificato il colore del titolo e il testo, il messaggio di prima era troppo generico e non si capisce che modifiche sono state effettuate.
-2) Aggiunta una nuova tabella con la lista dei comandi, dal messaggio che c'era prima non si capiva niente, erano lettere a caso e incomprensibili.
-3) Sistemato l'errore che non permetteva di schiacciare il pulsante di avvio, dal messaggio precedente si capiva che era stato sistemato un problema ma non specificava quale.
-4) Modificata l'interfaccia grafica, scrivere la data di quando è stato effettuato il commit è inutile dato che git scrive la data in automatico.
-5) Aggiornato il testo nella pagina e corretto gli appunti, quello di prima era un po' troppo vago.
-6) Risolto il problema con il caricamento dei file, "fix" è troppo corto e non specifica quale errore è stato corretto.
