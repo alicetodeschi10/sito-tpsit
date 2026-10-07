@@ -1,0 +1,6 @@
+git config --global user.name "Alice Todeschi"
+git config --global user.email "alice.todeschi@marconirovereto.it"
+git config --global --list 
+risposte
+user.name=Alice Todeschi
+user.email=alice.todeschi@marconirovereto.it
