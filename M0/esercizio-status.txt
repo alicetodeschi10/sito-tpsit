@@ -1,0 +1,6 @@
+1) ci sono i file: appunti-lezione-01.txt, README.md e argomento-sito.txt.
+appunti-lezione-01.txt è pronto per essere inserito nel commit
+README.md è stato modificato ma non è pronto per il commit 
+argomento-sito.txt non è tracciato da git
+2)l'unico file che entrerà nel commit è appunti-lezione-01.txt 
+3)per aggiungere anche gli altri file al commit bisogna fare git add ....
