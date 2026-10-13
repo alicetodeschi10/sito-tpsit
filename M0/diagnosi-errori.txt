@@ -1,0 +1,19 @@
+1. fatal: not a git repository (or any of the parent directories): .git
+- Traduzione: Errore fatale: questa non è una cartella Git (e non lo è nessuna delle cartelle superiori): manca la cartella nascosta .git.
+- Situazione: Compare quando lanci un comando Git (come git status o git log) all'interno di una cartella in cui non è mai stato inizializzato Git, oppure se ti sei dimenticato di spostarti dentro la cartella del progetto con il terminale.
+- Soluzione: Spostati nella cartella corretta del progetto usando il comando di Windows "cd nome-cartella", oppure inizializza un nuovo repository da zero con il comando "git init".
+
+2. Author identity unknown ... Please tell me who you are.
+- Traduzione: Identità dell'autore sconosciuta... Per favore dimmi chi sei.
+- Situazione: Compare quando provi a fare un "git commit" su un computer in cui Git non è ancora stato configurato con il tuo nome e la tua email.
+- Soluzione: Configura la tua identità globale su Windows lanciando i due comandi: `git config --global user.email "tua.email@esempio.com"` e `git config --global user.name "Il Tuo Nome"`.
+
+3. ! [rejected] main -> main (fetch first) error: failed to push some refs to 'https://github.com...'
+- Traduzione: Rifiutato: il caricamento del ramo main è stato bloccato (scarica prima le modifiche). Errore: impossibile inviare alcuni riferimenti.
+- Situazione: Compare quando provi a fare un "git push" ma la cronologia online su GitHub contiene dei commit più recenti che non hai ancora scaricato sul tuo computer locale 
+- Soluzione: Sincronizza la cronologia scaricando e unendo le modifiche remote sul tuo PC con il comando `git pull`.
+
+4. fatal: destination path 'sito-tpsit' already exists and is not an empty directory.
+- Traduzione: Errore fatale: la cartella di destinazione 'sito-tpsit' esiste già e non è una cartella vuota.
+- Situazione: Compare quando provi a lanciare il comando "git clone" per scaricare un repository, ma nella cartella del tuo PC in cui ti trovi esiste già una cartella che si chiama con lo stesso identico nome del progetto e contiene dei file.
+- Soluzione: Cancella o sposta la cartella esistente sul tuo computer prima di riprovare, oppure cambia il percorso del terminale, oppure specifica un nome diverso per la nuova cartella digitando il comando nella forma `git clone https://github.comalicetodeschi10/sito-tpsit.git nuovo-nome-cartella`.
