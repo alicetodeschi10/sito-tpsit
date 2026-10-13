@@ -1,0 +1,2 @@
+non ho capito come fare il commit di una sola modifica invece che di tutte
+non ho capito quando devo utilizzare git pull
