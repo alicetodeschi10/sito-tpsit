@@ -1,0 +1,4 @@
+git version 2.55.0
+/workspaces/sito-tpsit
+M0  M1  README.md
+pwd ha mostrato il percorso della cartella attuale e ls ha elencato i file presenti nella cartella 
