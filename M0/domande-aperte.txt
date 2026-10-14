@@ -1,0 +1,6 @@
+non ho capito come fare il commit di una sola modifica invece che di tutte
+non ho capito quando devo utilizzare git pull
+
+ad204e6 creato il file domande-aperte.txt
+2bfdae5 aggiunte due righe al file appunti-01
+c13cfd1 corretto errore nel file scheda-personale.txt

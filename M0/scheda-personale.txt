@@ -1,6 +1,12 @@
-Alice Todeschi
+Alice Todeschi.
 3Bi
+<<<<<<< HEAD
 anno 2026/2027
 ho scelto informatica perché è dalle medie che mi sono interessata alla programmazione.
 mi piacerebbe diventare una sviluppatrice.
 errore risolto
+=======
+Anno 2026/2027
+ho scelto informatica perché è dalle medie che mi sono interessata alla programmazione,
+mi piacerebbe diventare una sviluppatrice.
+>>>>>>> add364e294acd7a5f669e4aad19329d0c2d50d22

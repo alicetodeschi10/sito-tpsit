@@ -1,0 +1,2 @@
+git pull
+Se avessi fatto git push prima di fare git pull, Git avrebbe rifiutato il comando bloccando l'invio e mostrando un messaggio di errore
