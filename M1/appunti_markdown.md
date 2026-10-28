@@ -13,7 +13,7 @@ Sono andato a capo.
  Sono andato a capo ancora.
 
 
-> "Mira alla luna. Anche se sbagli, atterrerai tra le stelle."
+> "Il file README.md serve per spiegare il progetto a chi non lo conosce."
 
 ## Strumenti e Linguaggi
 La prossima parola è molto importante: **markdown**  
@@ -40,7 +40,7 @@ Ecco un esempio di codice scritto in Java:
 ```java
 public class PrimaLezione {
     public static void main(String[] args) {
-        System.out.println("Benvenuti alla prima lezione!");
+        System.out.println("Benvenuti alla prima lezione");
     }
 }
 ```
