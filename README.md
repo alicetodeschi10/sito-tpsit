@@ -1,7 +1,11 @@
 # sito-tpsit
 
-sito realizzato durante le lezioni di tpsit
-Ultimo aggiornamento: 13 ottobre 2026
+*Scopo:* imparare a usare git, gitHub e viual studio code
 
-https://alicetodeschi10.github.io/sito-tpsit/
+*Descrizione*: contiene gli appunti e i compiti di TPSIT divisi per moduli
+
+[appunti markdown](M1/appunti_markdown.md)  
+[scheda disco](M1/scheda.md)  
+[orario scolastico](M1/orario.md)
+
 
