@@ -42,5 +42,11 @@ Ascolta l'album su [Spotify](https://open.spotify.com/intl-it/album/0S0KGZnfBGSI
 
 - [x] Ascoltato interamente
 
-![alt text](ImaGe.png)
+![alt text](image.png)
+
+## Confronto fra le due rese
+Confrontando il documento in locale con quello su GitHub si notano alcune cose.
+La tabella si vede bene in entrambi i posti, anche se la grafica di GitHub è un po' più ordinata.
+La casella di spunta su GitHub si vede in modo diverso rispetto a Visual Studio Code in cui si vedono allo stesso modo in cui le scrivi nel file cioè due parentesi graffe vuote o con una x dentro
+Il problema vero lo fa l'immagine: se metti una lettera maiuscola nel nome del percorso per sbaglio, l'immagine si vede nell'anteprima di Visual Studio Code ma sparisce completamente su GitHub. Questo succede perché i server di GitHub usano Linux, un sistema che fa differenza tra maiuscole e minuscole, a differenza del computer locale. Una volta corretto il percorso scrivendo il nome del file in minuscolo esatto e rifatto il push, l'immagine torna a vedersi regolarmente online.
 
