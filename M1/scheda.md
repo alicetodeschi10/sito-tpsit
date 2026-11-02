@@ -30,3 +30,17 @@ Fonte: [Apple Music, classifica 100 Best Albums.](https://100best.music.apple.co
 Ascolta l'album su [Spotify](https://open.spotify.com/intl-it/album/0S0KGZnfBGSIssfF54WSJh?si=wziA7Vl-T2-kI1O7oH-Cow).
 
 [ritorna a readme](../README.md)
+
+## esercizio 8 
+
+
+| Elemento | Scheda Album | Valutazione |
+| :--- | :--- | :--- |
+| Brano principale | Bad Guy | 5 / 5 |
+| Produzione |Finneas O'Connell | Eccellente |
+| Etichetta | Darkroom / Interscope |  |
+
+[x] Ascoltato interamente
+
+![alt text](ImaGe.png)
+
