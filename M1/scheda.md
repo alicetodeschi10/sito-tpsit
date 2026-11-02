@@ -42,7 +42,7 @@ Ascolta l'album su [Spotify](https://open.spotify.com/intl-it/album/0S0KGZnfBGSI
 
 - [x] Ascoltato interamente
 
-![alt text](image.png)
+![M1\appunti\coperTina_whenWeAllFallAsleePWhereDoWeGo.png](appunti/copertina_whenWeAllFallAsleepWhereDoWeGo.png)
 
 ## Confronto fra le due rese
 Confrontando il documento in locale con quello su GitHub si notano alcune cose.
