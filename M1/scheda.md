@@ -40,7 +40,7 @@ Ascolta l'album su [Spotify](https://open.spotify.com/intl-it/album/0S0KGZnfBGSI
 | Produzione |Finneas O'Connell | Eccellente |
 | Etichetta | Darkroom / Interscope |  |
 
-[x] Ascoltato interamente
+- [x] Ascoltato interamente
 
 ![alt text](ImaGe.png)
 
