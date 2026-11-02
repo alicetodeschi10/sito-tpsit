@@ -66,5 +66,5 @@ Una volta clonato il repository, puoi aprire la cartella con **Visual Studio Cod
 [appunti markdown](M1/appunti_markdown.md)  
 [scheda disco](M1/scheda.md)  
 [orario scolastico](M1/orario.md)  
-[Schermata della pagina principale del repository GitHub](M1/appunti/repository.png)
+[Schermata della pagina principale del repository GitHub](M1/appunti/repository.png) 
 
